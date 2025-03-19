@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iostream>
 
 enum t_status{
     checked,
